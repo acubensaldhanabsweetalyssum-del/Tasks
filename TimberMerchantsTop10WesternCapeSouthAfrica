@@ -3,40 +3,40 @@
     "province": "Western Cape",
     "suburb": "Strand / Somerset West",
     "url": "https://somtim.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Structural Pine, Decking, Cladding & Poles"
   },
   "Merchant_2": {
     "province": "Western Cape",
     "suburb": "Epping, Cape Town",
     "url": "https://rarewoods.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Specialist in exotic local and imported hardwoods"
   },
   "Merchant_3": {
     "province": "Western Cape",
     "suburb": "Montague Gardens, Cape Town",
     "url": "https://countrywoodscpt.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Over 70 species of kilned timber and exotic slabs"
   },
   "Merchant_4": {
     "province": "Western Cape",
     "suburb": "Stikland, Bellville",
     "url": "https://matimbers.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Specialist in solid wood manufacturing, decking & mouldings"
   },
   "Merchant_5": {
     "province": "Western Cape",
     "suburb": "Noordhoek, Cape Town",
     "url": "https://capelumbermarketing.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Bulk structural timber, pole & decking supplier"
   },
   "Merchant_6": {
@@ -44,39 +44,39 @@
     "suburb": "Somerset West",
     "url": "https://timbuildsomersetwest.co.za",
     "has_pdf": true,
-    "has_html": false,
+    "has_html": null,
     "hint": "Building materials, boards & trade timber"
   },
   "Merchant_7": {
     "province": "Western Cape",
     "suburb": "Woodstock, Cape Town",
     "url": "https://timbercity.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Board cutting, edging & structural pine supplier"
   },
   "Merchant_8": {
     "province": "Western Cape",
     "suburb": "Epping / Woodstock",
     "url": "https://buco.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Commercial hardware and construction timber supplier"
   },
   "Merchant_9": {
     "province": "Western Cape",
     "suburb": "Stellenbosch",
     "url": "https://lumberking.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Boland regional timber and pole supplier"
   },
   "Merchant_10": {
     "province": "Western Cape",
     "suburb": "Swellendam",
     "url": "https://overbergtimberprojects.co.za",
-    "has_pdf": false,
-    "has_html": false,
+    "has_pdf": null,
+    "has_html": null,
     "hint": "Overberg local timber and pole supplier"
   }
 }
