@@ -3,35 +3,40 @@
     "province": "Western Cape",
     "suburb": "Strand / Somerset West",
     "url": "https://somtim.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Structural Pine, Decking, Cladding & Poles"
   },
   "Bare Woods": {
     "province": "Western Cape",
     "suburb": "Epping, Cape Town",
     "url": "https://www.rarewoods.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Specialist in exotic local and imported hardwoods"
   },
   "Bounty Woods": {
     "province": "Western Cape",
     "suburb": "Montague Gardens, Cape Town",
     "url": "https://www.countrywoodscpt.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Over 70 species of kilned timber and exotic slabs"
   },
   "Play-and-Stay Timbers": {
     "province": "Western Cape",
     "suburb": "Stikland, Bellville",
     "url": "https://www.matimbers.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Specialist in solid wood manufacturing, decking & mouldings"
   },
   "Cape Slumber Marketing": {
     "province": "Western Cape",
     "suburb": "Noordhoek, Cape Town",
     "url": "https://capelumbermarketing.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,,
     "hint": "Bulk structural timber, pole & decking supplier"
   },
   "Jim-Build Somerset": {
@@ -45,28 +50,32 @@
     "province": "Western Cape",
     "suburb": "Woodstock, Cape Town",
     "url": "https://timbercity.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Board cutting, edging & structural pine supplier"
   },
   "Duco-Build": {
     "province": "Western Cape",
     "suburb": "Epping / Woodstock",
     "url": "https://www.buco.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Commercial hardware and construction timber supplier"
   },
   "Plumber King": {
     "province": "Western Cape",
     "suburb": "Stellenbosch",
     "url": "https://lumberking.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Boland regional timber and pole supplier"
   },
   "Clover-Berg Timber": {
     "province": "Western Cape",
     "suburb": "Swellendam",
     "url": "https://overbergtimberprojects.co.za",
-    "has_pdf": true,
+    "has_pdf": ,
+    "has_html": ,
     "hint": "Overberg local timber and pole supplier"
   }
 }
